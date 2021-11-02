@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "811436760970",
+    "firebase_url": "https://foodex-c0e31.firebaseio.com",
+    "project_id": "foodex-c0e31",
+    "storage_bucket": "foodex-c0e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811436760970:android:2c061341ddaaa1865a7273",
+        "android_client_info": {
+          "package_name": "com.example.eatappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811436760970-u798a3649etu1iaqjooopbmgopvevbd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eatappadmin",
+            "certificate_hash": "00db56757af6f8668fc7f7229470f3b3a783f820"
+          }
+        },
+        {
+          "client_id": "811436760970-3djegvfpk28i9rhscecn4c4t84l2mhrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1qDhtHrJ26hm8RQ2B7_nFN-b0qIyhe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811436760970-3djegvfpk28i9rhscecn4c4t84l2mhrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811436760970:android:d2f05b7b430ca1d15a7273",
+        "android_client_info": {
+          "package_name": "com.example.foodex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811436760970-3djegvfpk28i9rhscecn4c4t84l2mhrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1qDhtHrJ26hm8RQ2B7_nFN-b0qIyhe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811436760970-3djegvfpk28i9rhscecn4c4t84l2mhrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811436760970:android:3c417d80753e04ec5a7273",
+        "android_client_info": {
+          "package_name": "com.example.foodexadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811436760970-3djegvfpk28i9rhscecn4c4t84l2mhrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1qDhtHrJ26hm8RQ2B7_nFN-b0qIyhe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811436760970-3djegvfpk28i9rhscecn4c4t84l2mhrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
